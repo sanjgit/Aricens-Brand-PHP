@@ -1,0 +1,24 @@
+[18-Mar-2025 09:31:46 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:32:38 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:33:23 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:33:36 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:33:46 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:33:48 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:35:28 America/Chicago] PHP Warning:  Undefined variable $cookieConsent in /home3/belgaggv/aricens.com/header.php on line 33
+[18-Mar-2025 09:36:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 38
+[18-Mar-2025 09:36:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 38
+[18-Mar-2025 09:36:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 38
+[18-Mar-2025 09:37:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 38
+[18-Mar-2025 09:38:30 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:33 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 39
+[18-Mar-2025 09:38:36 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 39
+[18-Mar-2025 09:38:39 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 39
+[18-Mar-2025 09:38:42 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:57 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:38:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 39
+[18-Mar-2025 09:39:02 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
+[18-Mar-2025 09:39:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/belgaggv/aricens.com/header.php:1) in /home3/belgaggv/aricens.com/header.php on line 39
+[18-Mar-2025 09:39:05 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/belgaggv/aricens.com/header.php on line 26
